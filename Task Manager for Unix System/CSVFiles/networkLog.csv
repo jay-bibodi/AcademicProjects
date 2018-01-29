@@ -1,0 +1,7 @@
+
+('usbmux', 'avahi-daemon', '0.0.0.0:5353', '0.0.0.0:0')
+('usbmux', 'avahi-daemon', '0.0.0.0:55213', '0.0.0.0:0')
+('root', 'cups-browsed', '0.0.0.0:631', '0.0.0.0:0')
+(None, 'dnsmasq', 'ubuntu:53', '0.0.0.0:0')
+('root', 'dhclient', '0.0.0.0:68', '0.0.0.0:0')
+('root', 'cupsd', 'localhost:631', '0.0.0.0:0')
